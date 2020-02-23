@@ -1,5 +1,5 @@
 # csv.sh
-yet another csv parser  
+yet another csv parser and transmogrifier
 Uses only things that are pre-installed on all machines I interact with regularly. In practice 90% awk.  
 
 
